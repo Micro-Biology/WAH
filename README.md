@@ -1,8 +1,8 @@
 # WAH
 
-## WIP
+## These questions are WIP
 
-Directed development questions: (there are papers on the G drive)
+### Directed development questions: (there are papers on the G drive)
 
 How does PEG precipitation work? And why is sewage a challenging matrix?
 
